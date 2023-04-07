@@ -8,9 +8,13 @@ This project was conceived as part of a lab course in Machine Learning with Pyth
 
 ## Python Libraries
 numpy np
+
 pandas pd
+
 matplotlib.pyplot plt
+
 seaborn sns
+
 scipy  stats
 
 ## How to use this project

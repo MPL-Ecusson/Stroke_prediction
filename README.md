@@ -6,7 +6,9 @@ The objective of this project was to train a machine learning model to predict w
 ## Origin story
 This project was conceived as part of a lab course in Machine Learning with Python through the Data Science Tech Institute. The stroke prediction project was based on the popular data set on Kaggle.com, with many examples of machine learning: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
 
-## Python Libraries
+## Python Libraries and more
+See requirements.txt for project dependencies. At a high level, critical python libraries for this project included:
+
 numpy np
 
 pandas pd

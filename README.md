@@ -19,6 +19,8 @@ seaborn sns
 
 scipy  stats
 
+This project was first implemented in the Jupyter Notebook environment (6.4.11) of Anaconda using python version 3.7.
+
 ## How to use this project
 As of this writing, 934 code examples performed machine learning models with this data. Therefore the approach here is not novel, but please share any comments and suggestions in the issues section. They will indeed be helpful. 
 
